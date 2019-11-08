@@ -1,0 +1,29 @@
+body {
+	background-color: grey;
+	color: white;
+	max-width: 100%;
+}
+
+/*.add{
+	float: right;
+}*/
+
+h1.header{
+	font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+}
+
+.contain{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.name{
+	float: left;
+	display: inline-block;
+}
+
+.bio.bio2 {
+
+	float: right;
+	display: inline-block;
+}
